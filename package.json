@@ -1,0 +1,13 @@
+{
+  "name": "kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "__ARNAV__ <79275041+Arnav-png@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "kafkajs": "^2.2.4"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
